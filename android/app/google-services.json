@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468362395688",
+    "firebase_url": "https://beecake-81043.firebaseio.com",
+    "project_id": "beecake-81043",
+    "storage_bucket": "beecake-81043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468362395688:android:12154f05162369e0",
+        "android_client_info": {
+          "package_name": "br.com.bergamasco.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468362395688-k6shlf3orst7qn3fjr24jhslhb6epcof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjKkpKo85XahtJFB17cPIfJXSVS9AEMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
